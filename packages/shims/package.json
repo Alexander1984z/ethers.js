@@ -4,7 +4,7 @@
   "browser": "./dist/index.min.js",
   "description": "Shims required for ethers in constrained environments.",
   "devDependencies": {
-    "browserify": "16.2.3",
+    "browserify": "17.0.0",
     "uglify-es": "3.3.9"
   },
   "ethereum": "donations.ethers.eth",
