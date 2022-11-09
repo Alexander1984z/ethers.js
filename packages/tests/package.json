@@ -18,7 +18,7 @@
   "description": "Testing package for ethers.",
   "devDependencies": {
     "browserify": "16.2.3",
-    "mocha": "^7.1.1"
+    "mocha": "^10.1.0"
   },
   "ethereum": "donations.ethers.eth",
   "keywords": [
